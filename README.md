@@ -33,7 +33,7 @@ This landing page template is designed for a E-commerce Headphones store. It inc
 
 ## Screenshot
 
-![Screenshot](./images/Headphone-screenshot.pnge.png)
+![Screenshot](./images/Headphone-screenshot.png)
 
 ## Installation
 
