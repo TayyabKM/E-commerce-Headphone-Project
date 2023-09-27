@@ -39,8 +39,8 @@ This landing page template is designed for a E-commerce Headphones store. It inc
 
 To use this landing page template, you can follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/TayyabKM/E-commerce-Headphone-Project.git`
+2. Navigate to the project directory: `cd E-commerce-Headphone-Project`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
